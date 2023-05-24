@@ -105,10 +105,11 @@ Issues will be handled at the discretion of the creator. It is highly recommende
 4. Expected behavior
 5. Actual behavior
 
-[0]: /downloads/Android_A11y_ARM_72_public.dmg.zip   
-[1]: /downloads/Android_A11y_x64_72_public.dmg.zip   
-[2]: /downloads/Android_A11y_72_public.msi.zip       
-[3]: /downloads/Android_A11y_72_public.deb.zip       
+[0]: http://qbalsdon.com/android_ally/public/Android_A11y_ARM_1_public.dmg.zip 
+[1]: http://qbalsdon.com/android_ally/public/Android_A11y_x64_1_public.dmg.zip 
+[2]: http://qbalsdon.com/android_ally/public/Android_A11y_1_public.msi.zip 
+[3]: http://qbalsdon.com/android_ally/public/Android_A11y_1_public.deb.zip 
+
 [4]: https://github.com/google/talkback
 [5]: https://developer.android.com/tools/adb
 [6]: /downloads/app-phone-signed-65.apk.zip
