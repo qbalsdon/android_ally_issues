@@ -11,7 +11,12 @@ Please download them below:
 - [Windows][2]
 - [Linux][3]
 
-[0]: http://qbalsdon.com/android_ally/public/Android_A11y_ARM_1_public.dmg.zip 
-[1]: http://qbalsdon.com/android_ally/public/Android_A11y_x64_1_public.dmg.zip 
-[2]: http://qbalsdon.com/android_ally/public/Android_A11y_1_public.msi.zip 
-[3]: http://qbalsdon.com/android_ally/public/Android_A11y_1_public.deb.zip 
+## TalkBack for developers
+
+This can be installed from the plugin, but you can [sideload it yourself][4] if that's what you really want
+
+[0]: https://www.ally-keys.com/android_ally_desktop/Android_A11y_ARM_6_public.dmg.zip 
+[1]: https://www.ally-keys.com/android_ally_desktop/Android_A11y_x64_6_public.dmg.zip 
+[2]: https://www.ally-keys.com/android_ally_desktop/Android_A11y_6_public.msi.zip 
+[3]: https://www.ally-keys.com/android_ally_desktop/Android_A11y_6_public.deb.zip 
+[4]: https://www.ally-keys.com/android_ally_desktop/app-phone-signed-79.apk.zip
