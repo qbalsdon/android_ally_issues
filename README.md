@@ -105,14 +105,14 @@ Issues will be handled at the discretion of the creator. It is highly recommende
 4. Expected behavior
 5. Actual behavior
 
-[0]: http://qbalsdon.com/android_ally/public/Android_A11y_ARM_1_public.dmg.zip 
-[1]: http://qbalsdon.com/android_ally/public/Android_A11y_x64_1_public.dmg.zip 
-[2]: http://qbalsdon.com/android_ally/public/Android_A11y_1_public.msi.zip 
-[3]: http://qbalsdon.com/android_ally/public/Android_A11y_1_public.deb.zip 
+[0]: https://www.ally-keys.com/android_ally_desktop/Android_A11y_ARM_6_public.dmg.zip 
+[1]: https://www.ally-keys.com/android_ally_desktop/Android_A11y_x64_6_public.dmg.zip 
+[2]: https://www.ally-keys.com/android_ally_desktop/Android_A11y_6_public.msi.zip 
+[3]: https://www.ally-keys.com/android_ally_desktop/Android_A11y_6_public.deb.zip 
+[6]: https://www.ally-keys.com/android_ally_desktop/app-phone-signed-79.apk.zip
 
 [4]: https://github.com/google/talkback
 [5]: https://developer.android.com/tools/adb
-[6]: /downloads/app-phone-signed-65.apk.zip
 [7]: https://developer.android.com/studio/command-line/adb#Enabling
 [8]: https://developer.android.com/studio/releases/platform-tools
 [9]: https://stackoverflow.com/questions/17901692/set-up-adb-on-mac-os-x
