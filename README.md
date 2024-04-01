@@ -27,7 +27,7 @@ TalkBack for Developers (TB4D) allows for developer and tester oriented features
  - navigate to the next heading 
  > `adb shell am broadcast -a com.a11y.adb.next -e mode headings`
 
-TalkBack for developers comes bundled inside the Android Ally, and can be installed from the UI. If you want to side load it yourself, you may [download the APK][6].
+TalkBack for developers comes bundled inside the Android Ally, and can be installed from the UI. If you want to side load it yourself, you may download the [phone APK][6] or the [wear APK][13].
 
 ### Advantages of TalkBack for Developers
 
@@ -105,11 +105,12 @@ Issues will be handled at the discretion of the creator. It is highly recommende
 4. Expected behavior
 5. Actual behavior
 
-[0]: https://www.ally-keys.com/android_ally_desktop/Android_A11y_ARM_6_public.dmg.zip 
-[1]: https://www.ally-keys.com/android_ally_desktop/Android_A11y_x64_6_public.dmg.zip 
-[2]: https://www.ally-keys.com/android_ally_desktop/Android_A11y_6_public.msi.zip 
-[3]: https://www.ally-keys.com/android_ally_desktop/Android_A11y_6_public.deb.zip 
+[0]: https://www.ally-keys.com/android_ally_desktop/Android_A11y_ARM_8_public.dmg.zip 
+[1]: https://www.ally-keys.com/android_ally_desktop/Android_A11y_x64_8_public.dmg.zip 
+[2]: https://www.ally-keys.com/android_ally_desktop/Android_A11y_8_public.msi.zip 
+[3]: https://www.ally-keys.com/android_ally_desktop/Android_A11y_8_public.deb.zip 
 [6]: https://www.ally-keys.com/android_ally_desktop/app-phone-signed-79.apk.zip
+[13]: https://www.ally-keys.com/android_ally_desktop/app-wear-signed-79.apk.zip
 
 [4]: https://github.com/google/talkback
 [5]: https://developer.android.com/tools/adb
